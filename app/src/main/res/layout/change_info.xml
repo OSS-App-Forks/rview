@@ -57,6 +57,7 @@
             android:paddingLeft="16dp"
             android:paddingRight="16dp"
             android:paddingStart="16dp"
+            android:background="@color/primaryBackgroundColor"
             android:paddingEnd="16dp"
             android:orientation="vertical">
 

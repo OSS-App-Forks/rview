@@ -15,7 +15,7 @@
      limitations under the License.
  -->
 <resources>
-    <style name="AppThemeBase" parent="Theme.AppCompat.NoActionBar">
+    <style name="AppThemeBase" parent="Theme.MaterialComponents.DayNight.NoActionBar">
         <item name="colorPrimary">#05668d</item>
         <item name="colorPrimaryDark">#044c69</item>
         <item name="colorAccent">#f44336</item>

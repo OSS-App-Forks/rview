@@ -48,6 +48,7 @@
             android:paddingStart="16dp"
             android:paddingEnd="16dp"
             android:paddingBottom="16dp"
+            android:background="@color/primaryBackgroundColor"
             android:orientation="vertical">
 
             <com.ruesga.rview.widget.StyleableTextView
